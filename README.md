@@ -13,6 +13,8 @@ I am currently student in software engineer in master's degree 🎓 . I learn a 
 - 📫 Reach me at : gauron.dorian.pro@gmail.com.
 - 🌌 Fun fact: I play videos games with my 21 team and play badminton 🏸 very often.
 - 🛹 Work on my kickflip
+- 🍿 Django Unchained
+- 🎵 Lil Uzi Vert - That Way
 
 ### Technologies i saw
 
