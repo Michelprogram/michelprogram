@@ -1,22 +1,22 @@
 ## Hi I am Dorian <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 <br>
 
-I am currently student in software engineer in master's degree 🎓 . I learn a lot about web technologies and backend programming language. I spent most of my free time to create personnal projects and enjoy open source feeling. I am really passionate about developpement and programming 💻.
+I am currently studying in software engineering for a master's degree 🎓. I learned a lot about web technologies and backend programming languages. I spend most of my free time creating personnal projects and I really enjoy the open source mindset. In case you might not have guessed, I am really passionate about software developpement and programming in general 💻.
 
-📬 You can me contact trought this !
+📬 You can contact me here !
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/loutre_verte) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gauron.dorian.pro@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dorian-gauron-534716187/)
 
 - 🏡 I’m currently working at EDF/CNEPE
 - 💻 Most used shortcut CRTF+F `Where is the bug` or 🪟 + V
-- 📹 I’m watching a lot of video about developpement, personnal advice [▶️](https://www.youtube.com/c/Fireship).
+- 📹 I watch a lot of videos on the subject, I really recommend this channel [▶️](https://www.youtube.com/c/Fireship).
 - 📫 Reach me at : gauron.dorian.pro@gmail.com.
 - 🌌 Fun fact: I play videos games with my 21 team and play badminton 🏸 very often.
 - 🛹 Work on my kickflip
 - 🍿 Django Unchained
 - 🎵 Lil Uzi Vert - That Way
 
-### Technologies i saw
+### Technologies I am familiar with
 
 #### Programming languages
 [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
@@ -43,7 +43,7 @@ I am currently student in software engineer in master's degree 🎓 . I learn a 
 [![Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](#)
 [![Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#)
 
-### Futur technologies i will try 
+### Futur technologies I can't wait to try 
 
 - 🐋 Docker
 - 🔖 AWS
