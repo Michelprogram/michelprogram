@@ -7,7 +7,7 @@ I am currently studying in software engineering for a master's degree 🎓. I le
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/loutre_verte) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gauron.dorian.pro@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dorian-gauron-534716187/)
 
-- 🏡 I’m currently working at EDF/CNEPE
+- 🏡 I’m currently working at EDF
 - 💻 Most used shortcut CRTF+F `Where is the bug` or 🪟 + V
 - 📹 I watch a lot of videos on the subject, I really recommend this channel [▶️](https://www.youtube.com/c/Fireship).
 - 📫 Reach me at : gauron.dorian.pro@gmail.com.
