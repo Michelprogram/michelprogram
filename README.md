@@ -1,4 +1,4 @@
-## Hi I am Dorian <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+## Hi I am Dorian <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 <br>
 
 I am currently studying in software engineering for a master's degree 🎓. I learned a lot about web technologies and backend programming languages. I spend most of my free time creating personnal projects and I really enjoy the open source mindset. In case you might not have guessed, I am really passionate about software developpement and programming in general 💻.
