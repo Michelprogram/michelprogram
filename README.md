@@ -45,10 +45,8 @@ I am currently studying in software engineering for a master's degree 🎓. I le
 
 ### Futur technologies I can't wait to try 
 
-- 🐋 Docker
-- 🔖 AWS
+- 📁 Mongo
 - 🕸️kubernetes
-- 💄Tailwind CSS
 - ☁️ Cloud stuff
 
 ### Github statistics
