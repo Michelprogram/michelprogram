@@ -14,7 +14,7 @@ I am currently studying in software engineering for a master's degree 🎓. I le
 - 🌌 Fun fact: I play videos games with my 21 team and play badminton 🏸 very often.
 - 🛹 Work on my kickflip
 - 🍿 Django Unchained
-- 🎵 Lil Uzi Vert - That Way
+- 🎵 Skepta - Same old story
 
 ### Technologies I am familiar with
 
@@ -24,7 +24,7 @@ I am currently studying in software engineering for a master's degree 🎓. I le
 [![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](#)
 [![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](#)
 [![Go Badge](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](#)
-[![Javascript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](#)
+[![Typescript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](#)
 
 #### Web
 [![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
@@ -45,9 +45,8 @@ I am currently studying in software engineering for a master's degree 🎓. I le
 
 ### Futur technologies I can't wait to try 
 
-- 📁 Mongo
-- 🕸️kubernetes
-- ☁️ Cloud stuff
+- 📁 Machine learning
+- 🕸️ kubernetes
 
 ### Github statistics
 ![Statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=Michelprogram&theme=blue-green&layout=compact)
