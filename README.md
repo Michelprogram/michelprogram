@@ -128,9 +128,9 @@ There are always new things I want to explore, learn, and build mostly through s
   />
   &nbsp;&nbsp;
   <img
-    src="https://github-readme-stats-ouuan.vercel.app/api?username=Michelprogram&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats-ouuan.vercel.app/api?username=Michelprogram&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true"
     alt="GitHub stats"
-    width="350"
+    width="420"
     height="200"
   />
 </p>
