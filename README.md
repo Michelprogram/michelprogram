@@ -1,58 +1,122 @@
-## Hi I am Dorian <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
-<br>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="50" height="50" /> Wubba lubba dub dub, I’m Dorian <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="50" height="50" />
 
-I am currently studying in software engineering for a master's degree 🎓. I learned a lot about web technologies and backend programming languages. I spend most of my free time creating personnal projects and I really enjoy the open source mindset. In case you might not have guessed, I am really passionate about software developpement and programming in general 💻.
+I’m close to finishing my **Computer Science degree in Montreal** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Snowman.png" alt="Snowman" width="25" height="25" />, and I currently work as a **Frontend Developer at @caido**.
 
-📬 You can contact me here !
+I’ve learned a lot about programming through school, work, and personal projects. I genuinely enjoy getting lost in documentation and love the mindset of having the power to create things from scratch using nothing but my brain, my hands, and a computer.
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/loutre_verte) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gauron.dorian.pro@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dorian-gauron-534716187/)
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mirror%20Ball.png" alt="Mirror Ball" width="50" height="50" /> A Few Quick Facts
 
-- 🏡 I’m currently working at EDF
-- 💻 Most used shortcut CRTF+F `Where is the bug` or 🪟 + V
-- 📹 I watch a lot of videos on the subject, I really recommend this channel [▶️](https://www.youtube.com/c/Fireship).
-- 📫 Reach me at : gauron.dorian.pro@gmail.com.
-- 🌌 Fun fact: I play videos games with my 21 team and play badminton 🏸 very often.
-- 🛹 Work on my kickflip
-- 🍿 Django Unchained
-- 🎵 Skepta - Same old story
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Ringed%20Planet.png" alt="Ringed Planet" width="25" height="25" /> Check out my **[portfolio](https://dorian-gauron.com/)** to learn more about me  
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> Currently working at **@caido**, building fun and useful stuff  
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fly.png" alt="Fly" width="25" height="25" /> Favorite debugging shortcut: **CTRL + SHIFT + F**  
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/X-Ray.png" alt="X-Ray" width="25" height="25" /> Most of my projects are available on **[GitHub](https://github.com/Michelprogram)**  
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clapper%20Board.png" alt="Clapper Board" width="25" height="25" /> You should definitely check out this YouTube channel: **[Green Code](https://www.youtube.com/@Green-Code)**  
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Keyboard.png" alt="Musical Keyboard" width="25" height="25" /> Occasionally getting humbled by the piano  
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" alt="Musical Notes" width="25" height="25" /> Vibing on: **Kendrick Lamar – luther**
 
-### Technologies I am familiar with
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Backpack.png" alt="Backpack" width="50" height="50" /> Technologies in my backpack
 
-#### Programming languages
-[![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
-[![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#) 
-[![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](#)
-[![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](#)
-[![Go Badge](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](#)
-[![Typescript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](#)
+Even though I’ve worked with many programming languages and tools at school, at work, and during my free time, I still have my favorites.
 
-#### Web
-[![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
-[![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
-[![SCSS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](#)
+<table>
+  <tr>
+    <td width="90" align="center">
+      <img width="60" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bear.png" alt="Go" />
+    </td>
+    <td>
+      <strong>Go</strong><br><br>
+      One of my side-learning achievements I’m really proud of.<br>
+      Go was my <strong>first programming language</strong>, learned from a <a href="https://www.amazon.fr/langage-Go-fondamentaux-d%C3%A9veloppement-int%C3%A9gration-ebook/dp/B08DG68355"> book</a> I randomly picked up in a store, thanks to <em>Frédéric G. Marand</em> for making that journey enjoyable.
+    </td>
+  </tr>
+    <tr>
+    <td width="90" align="center">
+      <img width="60" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Snowboarder%20Light%20Skin%20Tone.png"" alt="Go" />
+    </td>
+    <td>
+      <strong>Typescript</strong><br><br>
+      Most of my projects revolve around the worldwide web, and when it comes to web development, strong typing makes a huge difference.  
+Writing safer, more maintainable code is why TypeScript has become a daily tool for me.
+    </td>
+  </tr>
+</table>
 
-#### Frameworks
-[![Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](#)
-[![Badge](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](#)
-[![Badge](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](#)
-[![Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
-[![Badge](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](#)
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Superhero%20Light%20Skin%20Tone.png" alt="Superhero Light Skin Tone" width="35" height="35" /> **Avengers, assemble!**  
 
-### Databases
-[![Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](#)
-[![Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](#)
-[![Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#)
+Frontend, backend, databases, and infrastructure I regularly use to **build, ship, and deploy production-ready applications**.
 
-### Futur technologies I can't wait to try 
+<p align="left">
+  <img width="50" alt="Tailwind CSS" title="Tailwind CSS – utility-first styling" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />&nbsp;&nbsp;
+  <img width="50" alt="Vue.js" title="Vue.js – progressive frontend framework" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />&nbsp;&nbsp;
+  <img width="50" alt="Nuxt.js" title="Nuxt.js – Vue meta-framework" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxt/nuxt-original.svg" />&nbsp;&nbsp;
+  <img width="50" alt="GraphQL" title="GraphQL – flexible API querying" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" />&nbsp;&nbsp;
+  <img width="50" alt="MySQL" title="MySQL – relational database" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />&nbsp;&nbsp;
+  <img width="50" alt="MongoDB" title="MongoDB – document database" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />&nbsp;&nbsp;
+  <img width="50" alt="Redis" title="Redis – in-memory datastore" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />&nbsp;&nbsp;
+  <img width="50" alt="Docker" title="Docker – containerization platform" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />&nbsp;&nbsp;
+  <img width="50" alt="DigitalOcean" title="DigitalOcean – cloud infrastructure" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original.svg" />
+</p>
 
-- 📁 Machine learning
-- 🕸️ kubernetes
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microscope.png" alt="Microscope" width="50" height="50" /> Things I’m curious about
 
-### Github statistics
-![Statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=Michelprogram&theme=blue-green&layout=compact)
+There are always new things I want to explore, learn, and build mostly through side projects (finished… or not).
 
-![Statistics](https://github-readme-stats.vercel.app/api?username=Michelprogram&theme=blue-green&show_icons=true)
+<ul>
+<li>
+  <img
+    style="vertical-align: middle;"
+    src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Mage.png"
+    alt="Three.js"
+    width="25"
+    height="25"
+  />
+  Three.js
+  (Following the
+  <a href="https://threejs-journey.com/"><strong>gorgeous course</strong></a>
+  of Bruno Simon, getting some interest in Blender too…)
+</li>
+  <li>
+    <img
+      src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png"
+      alt="Machine learning"
+      width="25"
+      height="25"
+      style="vertical-align: middle;"
+    />
+    Machine learning (object detection, Hugging Face, etc.)
+  </li>
+  <li>
+    <img
+      src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Canoe.png"
+      alt="Build your own X"
+      width="25"
+      height="25"
+      style="vertical-align: middle;"
+    />
+    Finishing some <strong><a href="https://github.com/codecrafters-io/build-your-own-x">Build Your Own X</a></strong> projects
+    <em>(Blockchain, video games, evolution simulations…)</em>
+  </li>
+  <li>
+    <img
+      src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Crab.png"
+      alt="Rust"
+      width="25"
+      height="25"
+      style="vertical-align: middle;"
+    /> Rust (On my way to work with the borrow checker)
+  </li>
+</ul>
 
-#### Profile Visits 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Michelprogram.Michelprogram)
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Michelprogram&theme=tokyonight&hide_border=true"
+    alt="GitHub streak stats"
+    width="48%"
+  />
+  &nbsp;&nbsp;
+  <img
+    src="https://github-readme-stats-ouuan.vercel.app/api?username=Michelprogram&show_icons=true"
+    alt="GitHub stats"
+    width="48%"
+  />
+</p>
