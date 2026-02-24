@@ -6,6 +6,16 @@ I’ve learned a lot about programming through school, work, and personal projec
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mirror%20Ball.png" alt="Mirror Ball" width="50" height="50" /> A Few Quick Facts
 
+<br><br>
+
+<img
+  src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic1.srcdn.com%2Fwordpress%2Fwp-content%2Fuploads%2F2019%2F12%2FRick-and-Morty-Memes.jpg&f=1&nofb=1&ipt=f23612b7fdce74187098013a6d254094c4058f1d7a569091acd063853050a92d"
+  alt="Feeling good, hiking in Canada's Forest."
+  title="Feeling good, hiking in Canada's Forest."
+  width="400"
+  align="right"
+/>
+
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Ringed%20Planet.png" alt="Ringed Planet" width="25" height="25" /> Check out my **[portfolio](https://dorian-gauron.com/)** to learn more about me  
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> Currently working at **@caido**, building fun and useful stuff  
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fly.png" alt="Fly" width="25" height="25" /> Favorite debugging shortcut: **CTRL + SHIFT + F**  
@@ -13,6 +23,8 @@ I’ve learned a lot about programming through school, work, and personal projec
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clapper%20Board.png" alt="Clapper Board" width="25" height="25" /> You should definitely check out this YouTube channel: **[Green Code](https://www.youtube.com/@Green-Code)**  
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Keyboard.png" alt="Musical Keyboard" width="25" height="25" /> Occasionally getting humbled by the piano  
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" alt="Musical Notes" width="25" height="25" /> Vibing on: **Kendrick Lamar – luther**
+
+<br clear="right" />
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Backpack.png" alt="Backpack" width="50" height="50" /> Technologies in my backpack
 
