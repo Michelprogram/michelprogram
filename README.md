@@ -123,12 +123,12 @@ There are always new things I want to explore, learn, and build mostly through s
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=Michelprogram&theme=tokyonight&hide_border=true"
     alt="GitHub streak stats"
-    width="48%"
+    height="200"
   />
   &nbsp;&nbsp;
   <img
-    src="https://github-readme-stats-ouuan.vercel.app/api?username=Michelprogram&show_icons=true"
+    src="https://github-readme-stats-ouuan.vercel.app/api?username=Michelprogram&show_icons=true&theme=tokyonight&hide_border=true"
     alt="GitHub stats"
-    width="48%"
+    height="200"
   />
 </p>
